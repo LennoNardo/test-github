@@ -4,6 +4,7 @@ function App() {
     <>
       <h1>Update 1</h1>
       <h1>Update 2</h1>
+      <h1>Update 3</h1>
     </>
   )
 }
