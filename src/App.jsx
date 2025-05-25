@@ -16,3 +16,11 @@ function Test() {
     </>
   )
 }
+
+function Test2() {
+  return (
+    <>
+      <h1>Tes2t</h1>
+    </>
+  )
+}
