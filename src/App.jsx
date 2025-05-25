@@ -4,6 +4,7 @@ function App() {
     <>
       <h1>Hello World</h1>
       <h1>Lorem Ipsum</h1>
+      <h1>Update 1</h1>
     </>
   )
 }
