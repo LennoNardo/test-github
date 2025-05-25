@@ -27,3 +27,11 @@ function Test2() {
     </>
   )
 }
+
+function Test3() {
+  return (
+    <>
+      <h1>Tes3</h1>
+    </>
+  )
+}
