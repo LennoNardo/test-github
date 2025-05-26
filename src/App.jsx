@@ -5,6 +5,7 @@ function App() {
       <h1>Hello Wolrd</h1>
 
       <h1>Update 1</h1>
+      <h1>Update 2</h1>
     </>
   )
 }
