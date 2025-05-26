@@ -19,4 +19,12 @@ function Test() {
   )
 }
 
+function Test2() {
+  return (
+    <>
+      <h1>Hello Test</h1>
+    </>
+  )
+}
+
 
