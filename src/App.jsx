@@ -9,4 +9,12 @@ function App() {
 
 export default App
 
+function Test() {
+  return (
+    <>
+      <h1>Hello Test</h1>
+    </>
+  )
+}
+
 
